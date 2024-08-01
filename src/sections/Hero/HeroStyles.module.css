@@ -99,9 +99,10 @@
   }
 }
 
-
-.text{
+.text {
   text-align: center;
   flex-direction: column;
   align-items: center;
+  max-width: 100%;
+  padding: 0 10px;
 }
