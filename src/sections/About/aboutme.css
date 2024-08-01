@@ -1,0 +1,45 @@
+.about-outter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  padding: 0 20px;
+  max-width: 1200px;
+}
+
+.about-profile-card {
+  border-radius: 24px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  transition: transform 0.9s ease;
+  box-sizing: border-box;
+  margin-bottom: 15px;
+  width: 100%;
+  max-width: 800px;
+}
+
+.about-profile-card:hover {
+  transform: translateY(-15px);
+}
+
+.about-text-data {
+  padding: 15px 15px;
+  display: flex;
+  flex-direction: column;
+  font-family: 'Roboto Mono', monospace;
+}
+
+.what-i-do ul {
+  list-style: none;
+  padding: 0;
+  color: var(--text-color);
+}
+
+.what-i-do li {
+  margin-bottom: 10px;
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+.what-i-do li strong {
+  font-weight: bold;
+}
