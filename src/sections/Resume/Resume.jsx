@@ -10,27 +10,23 @@ function Resume() {
         'Bachelor of Technology, Major in Computer Science and Engineering ',
       year: '2018 - 2021',
     },
-    {
-      institution: 'GOVERNMENT POLYTECHNIC PITTHUWALA UTTARAKHAND',
-      degree: 'Diploma in Engineering',
-      year: '2015 - 2018',
-    },
+
   ]
 
   const experience = [
     {
-      company: 'Newtown Technologies Pvt. Ltd',
-      role: 'Front-End Developer',
-      year: 'July2022-May2023',
-      description:
-        'Developed and maintained the front end of various web applications using React.js and other technologies.',
-    },
-    {
       company: 'Phiof Services Pvt. Ltd.',
       role: 'Front-End Developer',
-      year: 'Jan2022 - Jun2022',
+      year: 'Jan2024 - Present',
       description:
-        'Assisted in the development of web applications and learned about industry best practices.',
+        ' Worked as part of the development team as a Front-End Developer for a prominent US-based client, ensuring seamless collaboration and project alignment. Successfully implemented new features to enhance user experience and functionality across the clients platform. Delivered three major projects on schedule, contributing to a 20% cost reduction through optimized development workflows and resource allocation. Focused on creating efficient, responsive, and scalable user interfaces tailored to client needs.',
+    },
+    {
+      company: 'Newtown Technologies Pvt. Ltd',
+      role: 'Front-End Developer',
+      year: 'July2023-Dec2023',
+      description:
+        'Designed and maintained an advanced online auction platform for selling bankrupt factories, industries, and other properties. Developed intuitive user interfaces, enabling seamless live auction participation, property bidding, and activity management. Conducted rigorous testing to ensure platform stability and scalability, accommodating a growing user base. Collaborated with cross-functional teams to implement real-time auction updates and responsive web designs.',
     },
   ]
 
